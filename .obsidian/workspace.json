@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "cad4293a1af52ca6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf9e129d075e2eb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d96ccc5b0ce10314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Tim Ferriss Show Transcripts Books I've Loved — Debbie Millman (472) - The Blog of Author Tim Ferriss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6543d3cd6dc4eba",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed5396598a145fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95bd3809b9028ca0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1691d136e431b4d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0004cdf688e628f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bcaa23b2d8ec36ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "aad2ac635dc4ae94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21523136a51ec03a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Tim Ferriss Show Transcripts Books I've Loved — Debbie Millman (472) - The Blog of Author Tim Ferriss.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a235d8661334a35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Tim Ferriss Show Transcripts Books I've Loved — Debbie Millman (472) - The Blog of Author Tim Ferriss.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b097101bd4c2b05c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0bdf653435aa4442",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Tim Ferriss Show Transcripts Books I've Loved — Debbie Millman (472) - The Blog of Author Tim Ferriss.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d96ccc5b0ce10314",
+  "lastOpenFiles": [
+    "The Tim Ferriss Show Transcripts Books I've Loved — Debbie Millman (472) - The Blog of Author Tim Ferriss.md"
+  ]
+}

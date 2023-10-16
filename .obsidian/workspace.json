@@ -38,9 +38,19 @@
                 "currentVersion": "1.4.14"
               }
             }
+          },
+          {
+            "id": "729b78280081bdc4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bea9d6bc0a36b112",
+  "active": "729b78280081bdc4",
   "lastOpenFiles": [
     "The Tim Ferriss Show Transcripts_ Books I've Loved — Debbie Millman (#472) - The Blog of Author Tim Ferriss.pdf",
     "The Tim Ferriss Show Transcripts Books I've Loved — Debbie Millman (472) - The Blog of Author Tim Ferriss.md"
